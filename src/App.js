@@ -24,7 +24,7 @@ function App() {
 
 
       <Switch>
-        <Route exact path="/reactlivewebsite" render={() => {
+        <Route exact path="" render={() => {
           return (
             <>
               <Displaypic />
