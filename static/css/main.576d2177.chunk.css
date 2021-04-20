@@ -1,0 +1,2 @@
+body{background-color:#dfebec}h1,h4,h5{font-family:"Zen Dots",cursive}p{font-family:monospace}#ld{background-color:red;-webkit-animation-name:example;animation-name:example;-webkit-animation-duration:4s;animation-duration:4s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}@-webkit-keyframes example{0%{background-color:red}to{background-color:#ff0}}@keyframes example{0%{background-color:red}to{background-color:#ff0}}
+/*# sourceMappingURL=main.576d2177.chunk.css.map */

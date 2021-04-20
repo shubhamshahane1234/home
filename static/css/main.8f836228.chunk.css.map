@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,wBAEJ,CAEA,SAEI,8BACJ,CAEA,EAEI,qBACJ","file":"main.8f836228.chunk.css","sourcesContent":["body {\r\n    background-color: #dfebec;\r\n    \r\n}\r\n\r\nh5,h4,h1{\r\n\r\n    font-family: 'Zen Dots', cursive;\r\n}\r\n\r\np {\r\n\r\n    font-family : monospace\r\n}\r\n\r\n"]}
