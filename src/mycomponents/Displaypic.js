@@ -5,7 +5,7 @@ function displaypic() {
     return (
         <>
         <div style= {{ backgroundSize:"100% 700px"  ,backgroundRepeat:"no-repeat"      ,backgroundImage: `url("/images/bgimg.jpg")`, height:"600px"}}> 
-    <h1   style = {{marginLeft:"100px",marginTop:"0px"}} >Hello,</h1>
+    <h1   style = {{marginLeft:"100px",marginTop:"0px 0px"}} >Hello,</h1>
     <h1 style = {{marginLeft:"100px"}}>I am a Web Developer</h1>
 </div>
 
